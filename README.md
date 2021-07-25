@@ -1,15 +1,13 @@
 <h1 style="text-align: center;"><strong>developing good habits</strong></h1>
 <h4 style="text-align: center;">how good habits can severely increase your performance</h4>
-<p style="text-align: center;"></p>
-<p style="text-align: center;">first of all we need to start with what habits are. <br /><br />habit /ˈhabɪt/ : a behavior pattern acquired by frequent repetition or physiologic exposure that shows itself in regularity or increased facility of performance<br /><br /><br />i do believe that life gravitates around the habits that we have formed.</p>
-<p style="text-align: center;"><em>-&nbsp;how happy or unhappy u are.</em></p>
-<p style="text-align: center;"><em>-&nbsp;how commited or not u are to things u want to achieve.</em></p>
-<p style="text-align: center;"><em>-&nbsp;how succesfull or unsucessfull u are</em></p>
+<p style="text-align: center;">first of all we need to start with what habits are. <br /><br />habit /ˈhabɪt/ : a behavior pattern acquired by frequent repetition or physiologic exposure that shows itself in regularity or increased facility of performance<br /><br />i do believe that life gravitates around the habits that we have formed.</p>
+<p style="text-align: center;"><strong><em>-&nbsp;how happy or unhappy u are.</em></strong></p>
+<p style="text-align: center;"><strong><em>-&nbsp;how commited or not u are to things u want to achieve.</em></strong></p>
+<p style="text-align: center;"><strong><em>-&nbsp;how succesfull or unsucessfull u are</em></strong></p>
 <p style="text-align: center;">all the decisions we did and make in life gravitate around the habits we have formed.<br /><br />good thing is that if we arent satisfied with the ones we have we can shape them.<br /><br /><br /><strong>the science behind</strong><br /><br /><img src="https://3.bp.blogspot.com/-D-Epn8U6zNc/XEvJFAt-KUI/AAAAAAAAg5o/s7wLyKHfoQ8r9LnI54tSHyB0Vrjc-fBfACLcBGAs/s640/habit-loop.png" alt="" /></p>
 <!-- Este comentario es visible solo en el editor fuente -->
 <p style="text-align: center;"></p>
 <p style="text-align: center;">i dont want to make extremely long so im gonna do a tldr of how this works</p>
-<p style="text-align: center;"></p>
 <p style="text-align: center;">cue triggers brain to initiate a behavior. our mind is continuously searching our internal and external environment to find potential rewards</p>
 <p style="text-align: center;">second is craving, they are the fuel behind every habit. if we dont have at least a minimal motivation or desire we have no reason at all to act. its not like we crave the habit itself but change in state that delivers. ie. u dont crave watching porn, u crave the feeling of relief it provides.</p>
 <p style="text-align: center;">third is response. the response is the actual habit you perform, it can b either as a form of a thought or an action. this really depends on how motivated u are. if the action requires more effort than u are willing to expend then u just simply wont do it.&nbsp;</p>
@@ -21,22 +19,16 @@
 <p style="text-align: center;"><img src="https://jamesclear.com/wp-content/uploads/2014/07/tiny-gains.jpg" alt="" /></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;">so now that we know how habits work im gonna talk from personal experience and empirical evidence the ones that i do think that works the best to improve performance:</p>
-<p style="text-align: center;"><em>-&nbsp;exercise</em></p>
-<p style="text-align: center;"><em>-&nbsp;nutrition</em></p>
-<p style="text-align: center;"><em>&nbsp; -&nbsp;meditation</em></p>
+<p style="text-align: center;"><strong><em>-&nbsp;exercise</em></strong></p>
+<p style="text-align: center;"><strong><em>-&nbsp;nutrition</em></strong></p>
+<p style="text-align: center;"><strong><em>&nbsp; -&nbsp;meditation</em></strong></p>
 <p style="text-align: center;">they all have something in common. they contribute to release key chemical brains that might improve or not how we feel so lets dismantle one by one.</p>
 <p style="text-align: center;"><strong>exercise:</strong></p>
-<p style="text-align: center;"><span>aerobic exercise is known to activate the body's stress response, the hypothalamic-pituitary-adrenal (HPA) axis, and yet many people engage in sports like running because they perceive its effects as relaxing. solving this apparent contradiction calls for a distinction between &ldquo;good stress&rdquo; and &ldquo;bad stress,&rdquo; or physical and psychological stress respectively (for ease of discussion), which in turn requires a deeper analysis of the neural mechanisms underlying both stress and aerobic exercise. Whereas stress research traditionally takes frequent runners as models for understanding chronic stress (</span><a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01890/full#B17">Duclos et al., 1998</a><span>), clinical studies are discovering the potential for exercise to alleviate depression and anxiety (</span><a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01890/full#B40">Marco et al., 2011</a><span>). both acute and chronic exercise may even lead to improved cognitive performance (see&nbsp;</span><a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01890/full#B31">Hillman et al., 2008</a><span>;&nbsp;</span><a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01890/full#B7">Chang et al., 2012</a><span>, for a comprehensive review;&nbsp;</span><a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01890/full#B12">Colzato et al., 2013</a><span>), whereas psychological stress is known to impair cognitive functions</span></p>
+<p style="text-align: center;"><span>aerobic exercise is known to activate the body's stress response, the hypothalamic-pituitary-adrenal (HPA) axis, and yet many people engage in sports like running because they perceive its effects as relaxing. solving this apparent contradiction calls for a distinction between &ldquo;good stress&rdquo; and &ldquo;bad stress,&rdquo; or physical and psychological stress respectively (for ease of discussion), which in turn requires a deeper analysis of the neural mechanisms underlying both stress and aerobic exercise.</span><span>&nbsp;clinical studies are discovering the potential for exercise to alleviate depression and anxiety,</span><span>&nbsp;both acute and chronic exercise may even lead to improved cognitive performance</span><span>, whereas psychological stress is known to impair cognitive functions</span></p>
 <p style="text-align: center;"><span></span></p>
 <p style="text-align: center;"><span>all in all, it seems that what makes exercise-induced stress different from stress due to negative life events is that, in contrast to psychological (bad) stress, physical (good) stress is associated with increased inactivation of cortisol (active steroid) into cortisone (inert steroid), increased level of AEA, BDNF, and serotonin. in particular, it seems that aerobic exercise modulates hormone, neurotrophin and neurotransmitter levels</span></p>
-<p class="p1" style="text-align: center;"><span class="s1"><b>physical activity improves mental health</b></span></p>
-<p class="p1" style="text-align: center;"><span class="s1"><span>the&nbsp;<a href="https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(18)30227-X/fulltext">study</a></span><a href="https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(18)30227-X/fulltext" target="_blank" rel="noopener"><span class="s3"></span></a>, which appeared in the peer-reviewed medical journal The Lancet Psychiatry, examined survey results from 2011, 2013 and 2015. rresearchers found that, on average, a person has 3.4 poor mental health days per month.</span></p>
+<p style="text-align: center;"><span class="s1"><span>the&nbsp;<a href="https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(18)30227-X/fulltext">study</a></span><a href="https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(18)30227-X/fulltext" target="_blank" rel="noopener"><span class="s3"></span></a>, which appeared in the peer-reviewed medical journal The Lancet Psychiatry, examined survey results from 2011, 2013 and 2015. researchers found that, on average, a person has 3.4 poor mental health days per month.</span></p>
 <p class="p1" style="text-align: center;"><span class="s1">but among those who exercise, the number of poor mental health days dropped by more than 40 percent. exercise may change the way the brain functions, which could account for the decrease in depression or anxiety.</span></p>
-<p class="p3" style="text-align: center;"><span class="s1">the study describes &ldquo;poor mental health&rdquo; as:</span></p>
-<p class="p3" style="text-align: center;"><em><span class="s1">-&nbsp;stress</span></em></p>
-<p class="p3" style="text-align: center;"><em><span class="s1">&nbsp; &nbsp; &nbsp; &nbsp;-&nbsp;</span><span class="s1">depression</span></em></p>
-<p class="p3" style="text-align: center;"><em><span class="s1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-&nbsp;emotional concerns</span></em></p>
-<p class="p3" style="text-align: center;"><span class="s1">balance is key since its possible to get too much exercise and not see these benefits.</span></p>
 <p class="p3" style="text-align: center;"><span class="s1"></span></p>
 <p class="p3" style="text-align: center;"><span class="s1"></span></p>
 <p class="p3" style="text-align: center;"><span class="s1"></span></p>
